@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido a interface da listagem de dados da plataforma Nivo.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/youtube/)
+[🔗 Clique aqui para acessar](https://listagem-de-dados-blond.vercel.app/)
 
 ## **🤍 Contato**
 
