@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo React na Prática - Rocketseat" src="https://i.imgur.com/d6yptnU.jpeg" width="300px" />
-</p>
+</p> 
 
 <p align="center">
     Página desenvolvida no evento React na Prática da Rocketseat.
